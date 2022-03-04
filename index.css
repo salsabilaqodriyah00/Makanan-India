@@ -1,0 +1,58 @@
+body {
+    font: 16px/28px arial, sans-serif;
+    background-color: #eaeaea;
+    color: #333;
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+.header {
+    padding: 20px;
+}
+.header .judul {
+    color: rgb(83, 139, 223);
+    font-size: 35px;
+    margin: 0;
+}
+.header p{
+    font-size: 15px;
+    margin-top: 3px;
+}
+.atas {
+    padding: 3px;
+    background-color:rgb(83, 139, 223);
+}
+.gambar {
+    height: 300px;
+    background-image: url(makanan.jpg);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.konten {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+
+}
+.konten p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-top: 0;
+
+}
+.konten h4 {
+    font-size: 22px;
+    color: rgb(83, 139, 223);
+    margin-bottom: 8px;
+}
+.konten span {
+    font-weight: bold;
+    font-size: 18px;
+}
+.footer {
+    padding: 3px;
+    background-color: rgb(83, 139, 223);
+}
